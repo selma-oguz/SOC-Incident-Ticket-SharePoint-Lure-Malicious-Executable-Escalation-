@@ -10,7 +10,7 @@ SECTION 1: Incident Summary
 
 **Header Analysis Link:** [MXToolBox Analysis](https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=54a406d7-b160-488a-bfc3-a884f505c9dd)
 
-On September 8, 2026, a highly deceptive phishing email was intercepted. The threat actor utilized a business email compromise (BEC) or spoofed charity domain (`greatplaces.org.uk`) to distribute a malicious payload. The email masquerades as an internal notification requiring the recipient to read and sign an updated "Security Policy Update September 2026" document.
+On September 8, 2026, a highly deceptive phishing email was intercepted. The threat actor utilized a business email compromise (BEC) or spoofed charity domain (`greatplaces.org.uk`) to distribute a malicious payload. The email masquerades as an internal notification requiring the recipient to read and sign an updated "Security Policy Update September 2026" document
 
 **Analyst Observations & Red Flags:**
 * **SharePoint Spoofing:** The email visualizes a fake SharePoint document link disguised as "greatplaces.sharepoint-com". It uses a false sense of urgency, stating the policy changes will take effect by next week (Monday 14th September 2026). It also includes visually convincing buttons to "Get the SharePoint Mobile App".
