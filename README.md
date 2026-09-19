@@ -8,7 +8,6 @@ SOC Incident Ticket: SharePoint Lure & Malicious Executable (Escalation)
 
 SECTION 1: Incident Summary
 
-
 **Header Analysis Link:** [MXToolBox Analysis](https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=54a406d7-b160-488a-bfc3-a884f505c9dd)
 
 On September 8, 2026, a highly deceptive phishing email was intercepted. The threat actor utilized a business email compromise (BEC) or spoofed charity domain (`greatplaces.org.uk`) to distribute a malicious payload. The email masquerades as an internal notification requiring the recipient to read and sign an updated "Security Policy Update September 2026" document.
